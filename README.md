@@ -8,7 +8,7 @@
 #### 🚀 What I'm Up To:
 - 🔭 **Research**: Diving deep into innovative ML algorithms that can revolutionize the way we understand data.
 - 🌱 **Learning**: Always seeking to expand my horizons. Currently delving into the world of causal inference and graph neural networks.
-- 📚 **Libraries**: Porting the [D2C](https://github.com/gbonte/D2C) library to Python and planning major improvements: [D2CPY](https://www.gianmarcopaldino.com/D2CPY/README.html)
+- 📚 **Libraries**: Making a time series version of [D2C](https://github.com/gbonte/D2C) in Python: [TD2C](https://github.com/gmpal/td2c)
 
 #### 🌐 Collaboration & Community
 - 👯 **Collaboration**: Open to collaborating on ML research. If you have an interesting proposal, reach out!
