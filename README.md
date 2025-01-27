@@ -6,9 +6,9 @@
 - **Research Area**: Machine Learning
 
 #### 🚀 What I'm Up To:
-- 🔭 **Research**: Diving deep into innovative ML algorithms that can revolutionize the way we understand data.
-- 🌱 **Learning**: Always seeking to expand my horizons. Currently delving into the world of causal inference and graph neural networks.
-- 📚 **Libraries**: Making a time series version of [D2C](https://github.com/gbonte/D2C) in Python: [TD2C](https://github.com/gmpal/td2c)
+- 🔭 **Research**: Learning the footprint of Causal Mechanism in Time Series Data 
+- 🌱 **Learning**: Always seeking to expand my horizons. Currently learning about Virtual Power Plants and ML applied to green energy.
+- 📚 **Libraries**: Take a look at my idea of [Virtual Power Plant](https://github.com/gmpal/vpp) (ongoing side project) as well as my causal discovery library for time series [TD2C](https://github.com/gmpal/td2c)
 
 #### 🌐 Collaboration & Community
 - 👯 **Collaboration**: Open to collaborating on ML research. If you have an interesting proposal, reach out!
